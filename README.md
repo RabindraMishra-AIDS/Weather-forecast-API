@@ -86,9 +86,6 @@ Current Temperature is:31.97deg C
 - The temperature output is converted from Kelvin to Celsius.
 - The notebooks are intended for demonstration and educational purposes.
 
-## License
-
-This project is open-source and available under the [MIT License](LICENSE).
 
 ## Author
 
